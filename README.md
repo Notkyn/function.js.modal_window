@@ -1,6 +1,5 @@
 # Modal Window
 
-#### Description:
    A simple version of a modal window.  Open the prepared modal window when you click an item on a website.
    
 ## How to use:
